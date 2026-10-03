@@ -1,0 +1,6 @@
+{
+  "name": "MetaReport Hub - FB Report Links & Additional Info",
+  "description": "Professional Facebook official report links and verified additional info appeal scripts with one-click copy and custom generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
